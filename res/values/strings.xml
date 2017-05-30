@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Full Layout for ASK</string>
+    <string name="full_layout_en">Full English Layout</string>
+	<string name="full_layout_en_description">Full English keyboard layout with utility keys</string>
+	<string name="full_layout_ru">Full Russian Layout</string>
+	<string name="full_layout_ru_description">Full Russian keyboard layout with utility keys</string>
+	<string name="name_ics">Condensed ICS-Like Theme</string>
+	<string name="description_ics">A theme with denser keys, fitting for use with large layouts</string>
+	<string name="name_lxx_light">Light Material-like Theme</string>
+	<string name="description_lxx_light">A theme with denser keys, fitting for use with large layouts</string>
+	<string name="name_lxx_dark">Dark Material-like Theme</string>
+	<string name="description_lxx_dark">A theme with denser keys, fitting for use with large layouts</string>
+</resources>

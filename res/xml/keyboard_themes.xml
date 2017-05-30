@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KeyboardThemes>
+	<KeyboardTheme
+        id="29f26523-ecc4-4108-a189-755aaf7b07eb"
+        nameResId="@string/name_ics"
+        themeRes="@style/ics"
+        popupThemeRes="@style/popup_ics"
+        iconsThemeRes="@style/icons_ics"
+        description="@string/description_ics"
+        index="1"/>
+	<KeyboardTheme
+        id="e79817f9-7707-45f4-a1c3-8e44444298d8"
+        nameResId="@string/name_lxx_light"
+        themeRes="@style/lxx_light"
+        popupThemeRes="@style/popup_lxx_light"
+        iconsThemeRes="@style/icons_lxx_light"
+        description="@string/description_lxx_light"
+        index="2"/>
+	<KeyboardTheme
+        id="7c2f1e9c-d360-4674-80a9-e9e2d2edc6b1"
+        nameResId="@string/name_lxx_dark"
+        themeRes="@style/lxx_dark"
+        popupThemeRes="@style/popup_lxx_dark"
+        iconsThemeRes="@style/icons_lxx_dark"
+        description="@string/description_lxx_dark"
+        index="3"/>
+</KeyboardThemes>
