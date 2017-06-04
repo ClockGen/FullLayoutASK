@@ -18,19 +18,19 @@
     xmlns:ask="http://schemas.android.com/apk/res-auto">
 
     <!-- Functional keys. -->
-<!--
+
     <item ask:key_type_function="true" android:state_pressed="true"
-          android:drawable="@drawable/btn_keyboard_key_pressed" />
+          android:drawable="@drawable/btn_keyboard_key_light_pressed" />
     <item ask:key_type_function="true"
           android:drawable="@drawable/btn_keyboard_key_normal" />
--->
+
     <!-- Action keys. -->
 
-    <!--<item ask:key_type_action="true" android:state_pressed="true"
-          android:drawable="@drawable/btn_keyboard_key_pressed" />
+    <item ask:key_type_action="true" android:state_pressed="true"
+          android:drawable="@drawable/btn_keyboard_key_light_pressed" />
     <item ask:key_type_action="true" 
-          android:drawable="@drawable/btn_keyboard_key_active" />
--->
+          android:drawable="@drawable/btn_keyboard_key_normal" />
+
     <!-- Toggle keys. Use checkable/checked state. -->
 
     <!--<item android:state_checkable="true" android:state_checked="true" android:state_pressed="true"
