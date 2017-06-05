@@ -70,8 +70,8 @@
 			<Key android:codes="-22" android:isRepeatable="true"/>
 			<Key android:codes="-23" android:isRepeatable="true"/>
 			<Key android:codes="-21" android:isRepeatable="true"/>
-			<Key android:codes="-25" android:keyLabel="End"/>
 			<Key android:codes="-24" android:keyLabel="Hm"/>
+			<Key android:codes="-25" android:keyLabel="End"/>
 			<Key android:codes="-120" android:keyLabel="Mn"/>
 		</Row>
 		<Row android:rowEdgeFlags="bottom">
