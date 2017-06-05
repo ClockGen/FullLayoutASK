@@ -71,7 +71,7 @@
 		
 		<!-- key heights -->
 		<item name="keyNormalHeight">@dimen/default_key_height</item>
-    	<item name="keySmallHeight">@dimen/default_key_half_height</item>✈
+    	<item name="keySmallHeight">@dimen/default_key_half_height</item>
     	<item name="keyLargeHeight">@dimen/default_key_tall_height</item>
 
 		<!-- key gaps -->    	
