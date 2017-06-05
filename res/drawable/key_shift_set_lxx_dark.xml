@@ -20,15 +20,15 @@
 		
 	<!-- checked -->
 	<item android:state_checked="true" ask:key_type_feedback="true"
-		android:drawable="@drawable/sym_keyboard_shift_locked_lxx_light"/>
-	<item android:state_checked="true" android:drawable="@drawable/sym_keyboard_shift_locked_lxx_light"/>
+		android:drawable="@drawable/sym_keyboard_shift_locked_lxx_dark"/>
+	<item android:state_checked="true" android:drawable="@drawable/sym_keyboard_shift_locked_lxx_dark"/>
 
 	<!-- pressed -->
-	<item android:state_pressed="true" ask:key_type_feedback="true" android:drawable="@drawable/sym_keyboard_shift_locked_lxx_light"/>
-	<item android:state_pressed="true" android:drawable="@drawable/sym_keyboard_shift_locked_lxx_light"/>
+	<item android:state_pressed="true" ask:key_type_feedback="true" android:drawable="@drawable/sym_keyboard_shift_locked_lxx_dark"/>
+	<item android:state_pressed="true" android:drawable="@drawable/sym_keyboard_shift_locked_lxx_dark"/>
 
 	<!-- Normal keys -->
-	<item ask:key_type_feedback="true" android:drawable="@drawable/sym_keyboard_shift_lxx_light"/>
-	<item android:drawable="@drawable/sym_keyboard_shift_lxx_light"/>
+	<item ask:key_type_feedback="true" android:drawable="@drawable/sym_keyboard_shift_lxx_dark"/>
+	<item android:drawable="@drawable/sym_keyboard_shift_lxx_dark"/>
 </selector>
 

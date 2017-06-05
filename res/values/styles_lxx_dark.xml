@@ -44,12 +44,12 @@
     	
         <item name="keyTextSize">@dimen/key_text_size</item>
         <item name="keyTextStyle">normal</item>
-        <item name="keyTextColor">#FFFBFBFC</item>
+        <item name="keyTextColor">#FFECEFF1</item>
         <item name="labelTextSize">@dimen/key_label_text_size</item>
 		
 		<item name="hintTextSize">14sp</item>
-        <item name="hintTextColor">#FFFBFBFC</item>
-        <item name="hintLabelVAlign">bottom</item>
+        <item name="hintTextColor">#FFECEFF1</item>
+        <item name="hintLabelVAlign">top</item>
         <item name="hintLabelAlign">right</item>
         
         <item name="shadowColor">#BB000000</item>
@@ -60,7 +60,7 @@
         
         <!-- key preview (feeback) -->
         <item name="keyPreviewBackground">@drawable/keyboard_key_feedback_lxx_dark</item>
-    	<item name="keyPreviewTextColor">#FFFBFBFC</item>
+    	<item name="keyPreviewTextColor">#FFECEFF1</item>
     	<item name="keyPreviewTextSize">32sp</item>
     	<item name="keyPreviewLabelTextSize">22sp</item>
     	
