@@ -7,4 +7,4 @@ as well as copy, cut, paste keys and a special key to summon AnySoftKeyboard fun
 * Set of basic themes with smaller, condensed overlay to allow for bigger layouts occupy same space. Themes also feature increased font size for hint characters, since default ones are too small.
 # Screenshots
 
-![Alt text](/img/lxxlight_en.png?raw=true "Material-like light theme")
+![Alt text](/img/lxxlight_eng.png?raw=true "Material-like light theme") 
