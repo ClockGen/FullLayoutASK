@@ -1,5 +1,5 @@
 # Full Layout for AnySoftKeyboard
-* A layout and set of themes for AnySoftKeyboard. The package features 2 layouts (english and russian) optimized for terminal input.
+* A layout and a set of themes for AnySoftKeyboard. The package features 2 layouts (english and russian) optimized for terminal input.
 ## Features
 * The layouts have number keys, various functional keys (tab, ctrl, esc, home, end and arrow keys)
 as well as copy, cut, paste keys and a special key to summon AnySoftKeyboard functional overlay.
