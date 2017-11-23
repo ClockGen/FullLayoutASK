@@ -13,16 +13,11 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 -->
-<resources>
-    <dimen name="default_key_height">40dip</dimen>
-    <dimen name="default_key_half_height">30dip</dimen>
-    <dimen name="default_key_tall_height">54dip</dimen>
-    
-    <dimen name="default_key_vertical_gap">0dp</dimen>
-    <dimen name="default_key_horizontal_gap">0dp</dimen>
-    
-    <dimen name="key_text_size">24sp</dimen>
-    <dimen name="key_label_text_size">14sp</dimen>
-    <dimen name="candidate_strip_height">36dip</dimen>
-    <dimen name="candidate_font_height">18sp</dimen>
-</resources>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid
+        android:color="@color/black_pop"/>
+	<corners
+		android:radius="5dp"/>
+</shape>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2017 ClockGen
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
 <resources>
     <string name="app_name">Full Layout for ASK</string>
     <string name="full_layout_en">Full English Layout</string>
 	<string name="full_layout_en_description">Full English keyboard layout with utility keys</string>
 	<string name="full_layout_ru">Full Russian Layout</string>
 	<string name="full_layout_ru_description">Full Russian keyboard layout with utility keys</string>
-	<string name="name_ics">Condensed ICS-Like Theme</string>
-	<string name="description_ics">A theme with denser keys, fitting for use with large layouts</string>
-	<string name="name_lxx_light">Light Material-like Theme</string>
-	<string name="description_lxx_light">A theme with denser keys, fitting for use with large layouts</string>
-	<string name="name_lxx_dark">Dark Material-like Theme</string>
-	<string name="description_lxx_dark">A theme with denser keys, fitting for use with large layouts</string>
+	<string name="name_light">Light Condensed Theme</string>
+	<string name="description_light">A theme with denser keys, fitting for use with large layouts</string>
+	<string name="name_dark">Dark Condensed Theme</string>
+	<string name="description_dark">A theme with denser keys, fitting for use with large layouts</string>
+	<string name="name_black">Black Condensed Theme</string>
+	<string name="description_black">A theme with denser keys, fitting for use with large layouts</string>
 </resources>

@@ -17,8 +17,5 @@ as well as copy, cut, paste keys and a special key to summon AnySoftKeyboard fun
 * New themes are intended to be used with new layouts, otherwise hint text size will be too large for stock layouts. You still can use stock themes, though, hint text would be almost unreadable.
 ## Building
 This project was made in AIDE, so if building in android studio fails (and most likely it does), open an issue please (or post in already existing one).
-## Status
-* Right now the project contains only hdpi size resources, so key icons might look a bit blurry on 1920x1080+ resolutions.
-* I'm going to add more themes, so if you have any ideas, suggestions and concepts please submit it to issues.
 ## License
-The layout uses various resources from AOSP and AnySoftKeyboard, both are licenced under Apache 2 license, full text of which can be found [here](https://www.apache.org/licenses/LICENSE-2.0.html).
+Licensed under Apache 2. Icons (including app icon) are grom AOSP (Licensed under Apache 2 too). Full text is [here](https://www.apache.org/licenses/LICENSE-2.0.html).

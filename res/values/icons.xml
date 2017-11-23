@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2017 ClockGen
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<resources>
+	<style name="icons_white">
+		<item name="iconKeyShift">@drawable/key_shift_set_white</item>
+		<item name="iconKeyBackspace">@drawable/ic_backspace_white</item>
+		<item name="iconKeySpace">@drawable/ic_space_bar_white</item>
+		<item name="iconKeyAction">@drawable/key_action_set_white</item>
+		<item name="iconKeyMic">@drawable/ic_voice_white</item>
+		<item name="iconKeySettings">@drawable/ic_settings_white</item>
+		<item name="iconKeyTab">@drawable/ic_tab_white</item>
+		<item name="iconKeyGlobe">@drawable/ic_language_white</item>
+		<item name="iconKeyQuickText">@drawable/ic_emoticon_white</item>
+		<item name="iconKeyCancel">@drawable/ic_cancel_white</item>
+		<item name="iconKeyArrowRight">@drawable/ic_arrow_right_white</item>
+		<item name="iconKeyArrowLeft">@drawable/ic_arrow_left_white</item>
+		<item name="iconKeyArrowUp">@drawable/ic_arrow_up_white</item>
+		<item name="iconKeyArrowDown">@drawable/ic_arrow_down_white</item>
+		<item name="iconKeyClipboardCopy">@drawable/ic_copy_white</item>
+		<item name="iconKeyClipboardPaste">@drawable/ic_paste_white</item>
+		<item name="iconKeyClipboardCut">@drawable/ic_cut_white</item>
+		<item name="iconKeyClipboardSelect">@drawable/ic_select_all_white</item>
+		<item name="iconKeyCondenseNormal">@drawable/ic_border_inner_white</item>
+		<item name="iconKeyCondenseSplit">@drawable/ic_border_vertical_white</item>
+		<item name="iconKeyCondenseCompactToRight">@drawable/ic_border_right_white</item>
+		<item name="iconKeyCondenseCompactToLeft">@drawable/ic_border_left_white</item>
+		</style>
+	<style name="icons_black">
+		<item name="iconKeyShift">@drawable/key_shift_set_black</item>
+		<item name="iconKeyBackspace">@drawable/ic_backspace_black</item>
+		<item name="iconKeySpace">@drawable/ic_space_bar_black</item>
+		<item name="iconKeyAction">@drawable/key_action_set_black</item>
+		<item name="iconKeyMic">@drawable/ic_voice_black</item>
+		<item name="iconKeySettings">@drawable/ic_settings_black</item>
+		<item name="iconKeyTab">@drawable/ic_tab_black</item>
+		<item name="iconKeyGlobe">@drawable/ic_language_black</item>
+		<item name="iconKeyQuickText">@drawable/ic_emoticon_black</item>
+		<item name="iconKeyCancel">@drawable/ic_cancel_black</item>
+		<item name="iconKeyArrowRight">@drawable/ic_arrow_right_black</item>
+		<item name="iconKeyArrowLeft">@drawable/ic_arrow_left_black</item>
+		<item name="iconKeyArrowUp">@drawable/ic_arrow_up_black</item>
+		<item name="iconKeyArrowDown">@drawable/ic_arrow_down_black</item>
+		<item name="iconKeyClipboardCopy">@drawable/ic_copy_black</item>
+		<item name="iconKeyClipboardPaste">@drawable/ic_paste_black</item>
+		<item name="iconKeyClipboardCut">@drawable/ic_cut_black</item>
+		<item name="iconKeyClipboardSelect">@drawable/ic_select_all_black</item>
+		<item name="iconKeyCondenseNormal">@drawable/ic_border_inner_black</item>
+		<item name="iconKeyCondenseSplit">@drawable/ic_border_vertical_black</item>
+		<item name="iconKeyCondenseCompactToRight">@drawable/ic_border_right_black</item>
+		<item name="iconKeyCondenseCompactToLeft">@drawable/ic_border_left_black</item>
+	</style>
+</resources>

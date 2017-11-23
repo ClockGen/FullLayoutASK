@@ -1,27 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (C) 2017 ClockGen
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
 <KeyboardThemes>
 	<KeyboardTheme
-        id="29f26523-ecc4-4108-a189-755aaf7b07eb"
-        nameResId="@string/name_ics"
-        themeRes="@style/ics"
-        popupThemeRes="@style/popup_ics"
-        iconsThemeRes="@style/icons_ics"
-        description="@string/description_ics"
+        id="e79817f9-7707-45f4-a1c3-8e44444298d8"
+        nameResId="@string/name_light"
+        themeRes="@style/light"
+        popupThemeRes="@style/popup_light"
+        iconsThemeRes="@style/icons_black"
+        description="@string/description_light"
         index="1"/>
 	<KeyboardTheme
-        id="e79817f9-7707-45f4-a1c3-8e44444298d8"
-        nameResId="@string/name_lxx_light"
-        themeRes="@style/lxx_light"
-        popupThemeRes="@style/popup_lxx_light"
-        iconsThemeRes="@style/icons_lxx_light"
-        description="@string/description_lxx_light"
+        id="7c2f1e9c-d360-4674-80a9-e9e2d2edc6b1"
+        nameResId="@string/name_dark"
+        themeRes="@style/dark"
+        popupThemeRes="@style/popup_dark"
+        iconsThemeRes="@style/icons_white"
+        description="@string/description_dark"
         index="2"/>
 	<KeyboardTheme
-        id="7c2f1e9c-d360-4674-80a9-e9e2d2edc6b1"
-        nameResId="@string/name_lxx_dark"
-        themeRes="@style/lxx_dark"
-        popupThemeRes="@style/popup_lxx_dark"
-        iconsThemeRes="@style/icons_lxx_dark"
-        description="@string/description_lxx_dark"
+        id="ced47434-ebec-4916-8e90-79fb9eae04d8"
+        nameResId="@string/name_black"
+        themeRes="@style/black"
+        popupThemeRes="@style/popup_black"
+        iconsThemeRes="@style/icons_white"
+        description="@string/description_black"
         index="3"/>
 </KeyboardThemes>

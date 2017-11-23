@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
       package="com.anysoftkeyboard.layout.full"
       android:versionCode="1"
-      android:versionName="1">
-     <uses-sdk android:minSdkVersion="3" android:targetSdkVersion="4"></uses-sdk>
+      android:versionName="Release">
+     <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="25"></uses-sdk>
 
 	<supports-screens
           android:largeScreens="true" 
@@ -30,6 +30,5 @@
             </intent-filter>
             <meta-data android:name="com.anysoftkeyboard.plugindata.keyboardtheme" android:resource="@xml/keyboard_themes" />
         </receiver>
-          
     </application>
 </manifest>
