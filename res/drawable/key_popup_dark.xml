@@ -16,6 +16,6 @@
 
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_pressed="true"
-          android:drawable="@drawable/background_pop_key_black" />
+          android:drawable="@drawable/background_pop_key_dark" />
     <item android:drawable="@drawable/transparent" />
 </selector>

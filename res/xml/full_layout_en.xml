@@ -70,22 +70,22 @@ limitations under the License.
     </Row>
 	<Row>
 		<Key android:codes="-11" android:keyLabel="Ctrl" android:isModifier="true"/>
-		<Key android:codes="27" android:keyLabel="ESC"/>
-		<Key android:codes="9"/>
-		<Key android:codes="-20" android:isRepeatable="true"/>
-		<Key android:codes="-22" android:isRepeatable="true"/>
-		<Key android:codes="-23" android:isRepeatable="true"/>
-		<Key android:codes="-21" android:isRepeatable="true"/>
-		<Key android:codes="-24" android:keyLabel="Hm"/>
-		<Key android:codes="-25" android:keyLabel="End" />
-		<Key android:codes="-120" android:keyLabel="Mn"/>
+		<Key android:codes="27" android:keyLabel="ESC" ask:isFunctional="true"/>
+		<Key android:codes="9" ask:isFunctional="true"/>
+		<Key android:codes="-20" android:isRepeatable="true" ask:isFunctional="true"/>
+		<Key android:codes="-22" android:isRepeatable="true" ask:isFunctional="true"/>
+		<Key android:codes="-23" android:isRepeatable="true" ask:isFunctional="true"/>
+		<Key android:codes="-21" android:isRepeatable="true" ask:isFunctional="true"/>
+		<Key android:codes="-24" android:keyLabel="Hm" ask:isFunctional="true"/>
+		<Key android:codes="-25" android:keyLabel="End" ask:isFunctional="true"/>
+		<Key android:codes="-120" android:keyLabel="Mn" ask:isFunctional="true"/>
 	</Row>
 	<Row android:rowEdgeFlags="bottom">
         <Key android:codes="-94"/>
 		<Key android:codes="-99"/>
-		<Key android:codes="-130" ask:longPressCode="-131"/>
+		<Key android:codes="-130" ask:longPressCode="-131" ask:isFunctional="true"/>
 		<Key android:codes="32" android:keyWidth="40%p"/>
-		<Key android:codes="-132" ask:longPressCode="-133"/>
+		<Key android:codes="-132" ask:longPressCode="-133" ask:isFunctional="true"/>
 		<Key android:codes="-10"/>
         <Key android:codes="10"/>
     </Row>

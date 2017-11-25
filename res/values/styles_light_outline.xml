@@ -14,42 +14,37 @@
      limitations under the License.
 -->
 <resources>
-    <style name="black">
-		<item name="android:background">@color/black_bg</item>
-    	<item name="keyBackground">@drawable/transparent</item>
+    <style name="light_outline">
+        <item name="android:background">@color/white_bg</item>
+    	<item name="keyBackground">@drawable/key_bg_white</item>
 
         <item name="keyTextSize">@dimen/key_text_size</item>
         <item name="keyTextStyle">normal</item>
-        <item name="keyTextColor">@color/black_fg</item>
+        <item name="keyTextColor">@color/white_fg</item>
         <item name="labelTextSize">@dimen/key_label_text_size</item>
 		
 		<item name="hintTextSize">14sp</item>
-        <item name="hintTextColor">@color/black_fg</item>
+        <item name="hintTextColor">@color/white_fg</item>
         <item name="hintLabelVAlign">top</item>
         <item name="hintLabelAlign">right</item>
  
-        <item name="shadowColor">@color/black_shadow</item>
+        <item name="shadowColor">@color/white_shadow</item>
         <item name="shadowRadius">0dp</item>
         <item name="shadowOffsetX">0dp</item>
-        <item name="shadowOffsetY">0dp</item>
+        <item name="shadowOffsetY">0dp
+			</item>
         <item name="backgroundDimAmount">0.5</item>
 
         <!-- key preview (feeback) -->
-        <item name="keyPreviewBackground">@drawable/background_pop_black</item>
-    	<item name="keyPreviewTextColor">@color/black_fg</item>
+        <item name="keyPreviewBackground">@drawable/background_pop_white_outline</item>
+    	<item name="keyPreviewTextColor">@color/white_fg</item>
     	<item name="keyPreviewTextSize">32sp</item>
     	<item name="keyPreviewLabelTextSize">22sp</item>
-		
+
     	<!-- suggestion strip -->
+    	<item name="suggestionBackgroundImage">@drawable/transparent</item>
     	<item name="suggestionStripHeight">@dimen/candidate_strip_height</item>
     	<item name="suggestionTextSize">@dimen/candidate_font_height</item>
-		<!--<item name="suggestionNormalTextColor">@color/black_suggest</item>
-        <item name="suggestionRecommendedTextColor">@color/black_recommend</item>
-        <item name="suggestionOthersTextColor">@color/black_other</item>
-        <item name="suggestionBackgroundImage">@drawable/transparent</item>
-        <item name="suggestionDividerImage"></item>
-        <item name="suggestionCloseImage">@drawable/ic_close_white</item>-->
-		
 
 		<!-- key heights -->
 		<item name="keyNormalHeight">@dimen/default_key_height</item>
@@ -60,9 +55,9 @@
 		<item name="keyHorizontalGap">@dimen/default_key_horizontal_gap</item>
 		<item name="keyVerticalGap">@dimen/default_key_vertical_gap</item>
     </style>
-    <style name="popup_black" parent="@style/black">
-        <item name="android:background">@drawable/background_pop_black</item>
-    	<item name="keyBackground">@drawable/key_popup_black</item>
+    <style name="popup_light_outline" parent="@style/light_outline">
+        <item name="android:background">@drawable/background_pop_white_outline</item>
+    	<item name="keyBackground">@drawable/key_popup_white</item>
     	<item name="keyPreviewTextSize">0px</item>
     </style>
 </resources>

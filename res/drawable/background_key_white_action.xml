@@ -17,10 +17,10 @@ limitations under the License.
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">
     <solid
-        android:color="@color/white_pop"/>
+        android:color="@color/white_key_action"/>
 	<corners
-		android:radius="@dimen/white_popup_corner"/>
-    <size
-        android:width="50dp"
-        android:height="50dp"/>
+		android:radius="@dimen/white_key_corner"/>
+	<stroke
+		android:width="@dimen/white_key_action_stroke" 
+		android:color="@color/white_key_action_outline"/>
 </shape>

@@ -23,13 +23,29 @@ limitations under the License.
         description="@string/description_light"
         index="1"/>
 	<KeyboardTheme
+		id="08368bc4-2e6a-4b57-bd06-320eac7a6a17"
+		nameResId="@string/name_light"
+		themeRes="@style/light_outline"
+		popupThemeRes="@style/popup_light_outline"
+		iconsThemeRes="@style/icons_black"
+		description="@string/description_light"
+		index="2"/>
+	<KeyboardTheme
         id="7c2f1e9c-d360-4674-80a9-e9e2d2edc6b1"
         nameResId="@string/name_dark"
         themeRes="@style/dark"
         popupThemeRes="@style/popup_dark"
         iconsThemeRes="@style/icons_white"
         description="@string/description_dark"
-        index="2"/>
+        index="3"/>
+	<KeyboardTheme
+        id="49237f62-aad5-4e75-bcf3-e34704e46def"
+        nameResId="@string/name_dark"
+        themeRes="@style/dark_outline"
+        popupThemeRes="@style/popup_dark_outline"
+        iconsThemeRes="@style/icons_white"
+        description="@string/description_dark"
+        index="4"/>
 	<KeyboardTheme
         id="ced47434-ebec-4916-8e90-79fb9eae04d8"
         nameResId="@string/name_black"
@@ -37,5 +53,13 @@ limitations under the License.
         popupThemeRes="@style/popup_black"
         iconsThemeRes="@style/icons_white"
         description="@string/description_black"
-        index="3"/>
+        index="5"/>
+	<KeyboardTheme
+        id="51d21332-a6ce-43c5-b7dd-d416f1628232"
+        nameResId="@string/name_black"
+        themeRes="@style/black_outline"
+        popupThemeRes="@style/popup_black_outline"
+        iconsThemeRes="@style/icons_white"
+        description="@string/description_black"
+        index="6"/>
 </KeyboardThemes>

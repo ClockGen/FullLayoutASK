@@ -55,7 +55,7 @@
 		<item name="keyVerticalGap">@dimen/default_key_vertical_gap</item>
     </style>
     <style name="popup_dark" parent="@style/dark">
-        <item name="android:background">@drawable/background_pop_menu_dark</item>
+        <item name="android:background">@drawable/background_pop_dark</item>
     	<item name="keyBackground">@drawable/key_popup_dark</item>
     	<item name="keyPreviewTextSize">0px</item>
     </style>

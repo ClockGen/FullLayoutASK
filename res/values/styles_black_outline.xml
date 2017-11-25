@@ -14,9 +14,9 @@
      limitations under the License.
 -->
 <resources>
-    <style name="black">
+    <style name="black_outline">
 		<item name="android:background">@color/black_bg</item>
-    	<item name="keyBackground">@drawable/transparent</item>
+    	<item name="keyBackground">@drawable/key_bg_black</item>
 
         <item name="keyTextSize">@dimen/key_text_size</item>
         <item name="keyTextStyle">normal</item>
@@ -35,7 +35,7 @@
         <item name="backgroundDimAmount">0.5</item>
 
         <!-- key preview (feeback) -->
-        <item name="keyPreviewBackground">@drawable/background_pop_black</item>
+        <item name="keyPreviewBackground">@drawable/background_pop_black_outline</item>
     	<item name="keyPreviewTextColor">@color/black_fg</item>
     	<item name="keyPreviewTextSize">32sp</item>
     	<item name="keyPreviewLabelTextSize">22sp</item>
@@ -60,8 +60,8 @@
 		<item name="keyHorizontalGap">@dimen/default_key_horizontal_gap</item>
 		<item name="keyVerticalGap">@dimen/default_key_vertical_gap</item>
     </style>
-    <style name="popup_black" parent="@style/black">
-        <item name="android:background">@drawable/background_pop_black</item>
+    <style name="popup_black_outline" parent="@style/black_outline">
+        <item name="android:background">@drawable/background_pop_black_outline</item>
     	<item name="keyBackground">@drawable/key_popup_black</item>
     	<item name="keyPreviewTextSize">0px</item>
     </style>

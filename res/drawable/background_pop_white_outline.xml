@@ -23,4 +23,7 @@ limitations under the License.
     <size
         android:width="50dp"
         android:height="50dp"/>
+	<stroke
+		android:width="@dimen/white_pop_stroke"
+		android:color="@color/white_pop_outline"/>
 </shape>

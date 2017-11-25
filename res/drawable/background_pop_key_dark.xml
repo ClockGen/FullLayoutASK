@@ -19,5 +19,5 @@ limitations under the License.
     <solid
         android:color="@color/dark_sel"/>
 	<corners
-		android:radius="3dp"/>
+		android:radius="@dimen/dark_popup_corner"/>
 </shape>

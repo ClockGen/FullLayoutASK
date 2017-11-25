@@ -17,18 +17,42 @@ limitations under the License.
 	<color name="black_bg">#18191C</color>
 	<color name="black_fg">#ECEFF1</color>
 	<color name="black_pop">#28292C</color>
+	<color name="black_sel">#999999</color>
+	<color name="black_shadow">#FFFFFF</color>
+	<color name="black_key">#28292C</color>
+	<color name="black_key_outline">#38393C</color>
+	<color name="black_key_action">#58595C</color>
+	<color name="black_key_action_outline">#68696C</color>
+	<color name="black_key_function">#48494C</color>
+	<color name="black_key_function_outline">#57595C</color>
+	<color name="black_pop_outline">#38393C</color>
+	
 	<color name="white_bg">#ECEFF1</color>
 	<color name="white_fg">#37474F</color>
 	<color name="white_pop">#ACAFC1</color>
+	<color name="white_sel">#47575F</color>
+	<color name="white_shadow">#37474F</color>
+	<color name="white_key">#FFFFFF</color>
+	<color name="white_key_outline">#FFFFFF</color>
+	<color name="white_key_action">#FFFFFF</color>
+	<color name="white_key_action_outline">#FFFFFF</color>
+	<color name="white_key_function">#FFFFFF</color>
+	<color name="white_key_function_outline">#FFFFFF</color>
+	<color name="white_pop_outline">#FFFFFF</color>
+	
 	<color name="dark_bg">#37474F</color>
 	<color name="dark_fg">#ECEFF1</color>
 	<color name="dark_pop">#47575F</color>
+	<color name="dark_sel">#DCDFE1</color>
+	<color name="dark_shadow">#ECEFF1</color>
+	<color name="dark_key">#FFFFFF</color>
+	<color name="dark_key_outline">#FFFFFF</color>
+	<color name="dark_key_action">#FFFFFF</color>
+	<color name="dark_key_action_outline">#FFFFFF</color>
+	<color name="dark_key_function">#FFFFFF</color>
+	<color name="dark_key_function_outline">#FFFFFF</color>
+	<color name="dark_pop_outline">#FFFFFF</color>
+	
 	<color name="key_black">#37474F</color>
 	<color name="key_white">#ECEFF1</color>
-	<color name="black_sel">#999999</color>
-	<color name="white_sel">#47575F</color>
-	<color name="dark_sel">#DCDFE1</color>
-	<color name="black_shadow">#ECEFF1</color>
-	<color name="white_shadow">#37474F</color>
-	<color name="dark_shadow">#ECEFF1</color>
 </resources>

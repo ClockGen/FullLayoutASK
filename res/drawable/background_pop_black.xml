@@ -19,7 +19,7 @@ limitations under the License.
     <solid
         android:color="@color/black_pop"/>
 	<corners
-		android:radius="5dp"/>
+		android:radius="@dimen/black_popup_corner"/>
     <size
         android:width="50dp"
         android:height="50dp"/>

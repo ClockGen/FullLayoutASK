@@ -19,10 +19,31 @@ limitations under the License.
     <dimen name="default_key_tall_height">54dip</dimen>
     
     <dimen name="default_key_vertical_gap">0dp</dimen>
-    <dimen name="default_key_horizontal_gap">0dp</dimen>
+    <dimen name="default_key_horizontal_gap">2dp</dimen>
     
     <dimen name="key_text_size">24sp</dimen>
     <dimen name="key_label_text_size">14sp</dimen>
     <dimen name="candidate_strip_height">36dip</dimen>
     <dimen name="candidate_font_height">18sp</dimen>
+	
+	<dimen name="black_key_corner">1.5dp</dimen>
+	<dimen name="black_popup_corner">5dp</dimen>
+	<dimen name="black_key_stroke">0.35dp</dimen>
+	<dimen name="black_key_action_stroke">0.35dp</dimen>
+	<dimen name="black_key_function_stroke">0.35dp</dimen>
+	<dimen name="black_pop_stroke">1dp</dimen>
+	
+	<dimen name="dark_key_corner">1.5dp</dimen>
+	<dimen name="dark_popup_corner">5dp</dimen>
+	<dimen name="dark_key_stroke">0.35dp</dimen>
+	<dimen name="dark_key_action_stroke">0.35dp</dimen>
+	<dimen name="dark_key_function_stroke">0.35dp</dimen>
+	<dimen name="dark_pop_stroke">1dp</dimen>
+	
+	<dimen name="white_key_corner">1.5dp</dimen>
+	<dimen name="white_popup_corner">5dp</dimen>
+	<dimen name="white_key_stroke">0.35dp</dimen>
+	<dimen name="white_key_action_stroke">0.35dp</dimen>
+	<dimen name="white_key_function_stroke">0.35dp</dimen>
+	<dimen name="white_pop_stroke">1dp</dimen>
 </resources>
