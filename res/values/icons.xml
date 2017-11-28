@@ -17,7 +17,7 @@ limitations under the License.
 	<style name="icons_white">
 		<item name="iconKeyShift">@drawable/key_shift_set_white</item>
 		<item name="iconKeyBackspace">@drawable/ic_backspace_white</item>
-		<item name="iconKeySpace">@drawable/ic_space_bar_white</item>
+		<item name="iconKeySpace">@drawable/transparent</item>
 		<item name="iconKeyAction">@drawable/key_action_set_white</item>
 		<item name="iconKeyMic">@drawable/ic_voice_white</item>
 		<item name="iconKeySettings">@drawable/ic_settings_white</item>
@@ -41,7 +41,7 @@ limitations under the License.
 	<style name="icons_black">
 		<item name="iconKeyShift">@drawable/key_shift_set_black</item>
 		<item name="iconKeyBackspace">@drawable/ic_backspace_black</item>
-		<item name="iconKeySpace">@drawable/ic_space_bar_black</item>
+		<item name="iconKeySpace">@drawable/transparent</item>
 		<item name="iconKeyAction">@drawable/key_action_set_black</item>
 		<item name="iconKeyMic">@drawable/ic_voice_black</item>
 		<item name="iconKeySettings">@drawable/ic_settings_black</item>

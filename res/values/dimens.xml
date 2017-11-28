@@ -33,14 +33,14 @@ limitations under the License.
 	<dimen name="black_key_function_stroke">0.35dp</dimen>
 	<dimen name="black_pop_stroke">1dp</dimen>
 	
-	<dimen name="dark_key_corner">1.5dp</dimen>
+	<dimen name="dark_key_corner">8dp</dimen>
 	<dimen name="dark_popup_corner">5dp</dimen>
 	<dimen name="dark_key_stroke">0.35dp</dimen>
 	<dimen name="dark_key_action_stroke">0.35dp</dimen>
 	<dimen name="dark_key_function_stroke">0.35dp</dimen>
 	<dimen name="dark_pop_stroke">1dp</dimen>
 	
-	<dimen name="white_key_corner">1.5dp</dimen>
+	<dimen name="white_key_corner">8dp</dimen>
 	<dimen name="white_popup_corner">5dp</dimen>
 	<dimen name="white_key_stroke">0.35dp</dimen>
 	<dimen name="white_key_action_stroke">0.35dp</dimen>

@@ -29,10 +29,10 @@
         <item name="hintLabelAlign">right</item>
  
         <item name="shadowColor">@color/black_shadow</item>
-        <item name="shadowRadius">0dp</item>
+        <item name="shadowRadius">5dp</item>
         <item name="shadowOffsetX">0dp</item>
         <item name="shadowOffsetY">0dp</item>
-        <item name="backgroundDimAmount">0.5</item>
+        <item name="backgroundDimAmount">1</item>
 
         <!-- key preview (feeback) -->
         <item name="keyPreviewBackground">@drawable/background_pop_black_outline</item>
@@ -41,15 +41,9 @@
     	<item name="keyPreviewLabelTextSize">22sp</item>
 		
     	<!-- suggestion strip -->
+		<item name="suggestionBackgroundImage">@drawable/transparent</item>
     	<item name="suggestionStripHeight">@dimen/candidate_strip_height</item>
     	<item name="suggestionTextSize">@dimen/candidate_font_height</item>
-		<!--<item name="suggestionNormalTextColor">@color/black_suggest</item>
-        <item name="suggestionRecommendedTextColor">@color/black_recommend</item>
-        <item name="suggestionOthersTextColor">@color/black_other</item>
-        <item name="suggestionBackgroundImage">@drawable/transparent</item>
-        <item name="suggestionDividerImage"></item>
-        <item name="suggestionCloseImage">@drawable/ic_close_white</item>-->
-		
 
 		<!-- key heights -->
 		<item name="keyNormalHeight">@dimen/default_key_height</item>
