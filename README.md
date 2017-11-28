@@ -6,13 +6,7 @@ as well as copy, cut, paste keys and a special key to summon AnySoftKeyboard fun
 * All necessary symbols for coding and terminal input are mapped as long-press keys on the layout.
 * Set of basic themes with smaller, condensed overlay to allow for bigger layouts occupy same space. Themes also feature increased font size for hint characters, since default ones are too small.
 ## Screenshots
-![Screenshot](/img/lxxlight_eng.png){:height="5%" width="5%"}
-![Screenshot](/img/lxxlight_eng.png?raw=true) 
-![Screenshot](/img/lxxdark_eng.png?raw=true) 
-![Screenshot](/img/ics_eng.png?raw=true) 
-![Screenshot](/img/lxxlight_ru.png?raw=true) 
-![Screenshot](/img/lxxdark_ru.png?raw=true) 
-![Screenshot](/img/ics_ru.png?raw=true) 
+<img src="/img/lxxlight_eng.png" width="48">
 ## Detailed info
 * Both layouts override top and bottom extension rows to add hint symbols and additional keys.
 * New themes are intended to be used with new layouts, otherwise hint text size will be too large for stock layouts. You still can use stock themes, though, hint text would be almost unreadable.
