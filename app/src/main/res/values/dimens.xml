@@ -14,9 +14,9 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 <resources>
-    <dimen name="default_key_height">40dip</dimen>
-    <dimen name="default_key_half_height">30dip</dimen>
-    <dimen name="default_key_tall_height">54dip</dimen>
+    <dimen name="default_key_height">40dp</dimen>
+    <dimen name="default_key_half_height">30dp</dimen>
+    <dimen name="default_key_tall_height">54dp</dimen>
     
     <dimen name="default_key_vertical_gap">0dp</dimen>
     <dimen name="default_key_horizontal_gap">2dp</dimen>
